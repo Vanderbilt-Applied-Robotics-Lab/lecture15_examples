@@ -6,7 +6,7 @@
 
 
 /**
- * Rotates a 2D vector by specified angle
+ * Example of using Arun registration
  * Applied Robotics
  * Author: Garrison Johnston
  */
